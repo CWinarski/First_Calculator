@@ -6,9 +6,9 @@ public class CalcFunctions
 
     public static void main (String [] args) {
 
-        Double numOne = null;
-        Double numTwo = null;
-        Double result = null;
+        Double numOne;
+        Double numTwo;
+        Double result;
         int operator;
 
         Scanner kb = new Scanner(System.in);
